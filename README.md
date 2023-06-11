@@ -15,4 +15,4 @@ I am excited to embark on this thrilling journey. I hope to make significant pro
 
 |# Day | Topics                                                    |
 |------|:---------------------------------------------------------:|
-| 01  |  [Introduction](./01-Day_Introduction/readme.md)|
+| 01  |  [Introduction](./01-Day_Introduction/)|
